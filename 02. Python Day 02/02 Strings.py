@@ -15,3 +15,4 @@ print(testString[10])
 #%f float
 # Place holders can be used to intially define locations and then drop them in.
 
+#string methods pg-80
