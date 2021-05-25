@@ -2,18 +2,18 @@
 
 ## Intro to strings (01 Strings First steps.py)
 
-string1 = "Hello World" (Stores the string in the variable string1)
-string2 = 42 (Stores the integer 42 in the variable)
-string3 = "42" (Including the "" turns the number into a string)
-
-prints the strings out
-print(string1)
-print(string2)
-print(string3)
-displays the type of data stored in the variable
-print(type(string1))
-*returns <class 'str'>*
-print(type(string2))
-*returns <class 'int'>*
-print(type(string3))
-*returns <class 'str'>*
+string1 = "Hello World" (Stores the string in the variable string1)<br>
+string2 = 42 (Stores the integer 42 in the variable)<br>
+string3 = "42" (Including the "" turns the number into a string)<br>
+<p>
+prints the strings out<br>
+print(string1)<br>
+print(string2)<br>
+print(string3)<br>
+displays the type of data stored in the variable<br>
+print(type(string1))<br>
+*returns <class 'str'>*<br>
+print(type(string2))<br>
+*returns <class 'int'>*<br>
+print(type(string3))<br>
+*returns <class 'str'>*<br>
