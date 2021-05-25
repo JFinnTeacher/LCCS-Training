@@ -16,4 +16,4 @@ print(type(string1))<br>
 print(type(string2))<br>
 *returns \<class \'int\'\>*<br>
 print(type(string3))<br>
-*returns \<class \'str\'\>*<br>
+*returns \<class \'str\'\>*<br> 

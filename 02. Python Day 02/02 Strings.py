@@ -6,6 +6,9 @@ print(testString[6:]) # prints everything after the index
 print(testString[0:5])
 print(testString[:5]) # prints everything up to the index from the start
 
+print(len(testString))
+print(testString[10])
+
 #string formatting
 #%s to define a string placeholder
 #%d number (integer)
