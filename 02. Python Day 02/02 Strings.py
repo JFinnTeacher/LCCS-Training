@@ -14,5 +14,9 @@ print(testString[10])
 #%d number (integer)
 #%f float
 # Place holders can be used to intially define locations and then drop them in.
+# This prints out "John is 23 years old."
+name = "John"
+age = 23
+print("%s is %d years old." % (name, age))
 
 #string methods pg-80
