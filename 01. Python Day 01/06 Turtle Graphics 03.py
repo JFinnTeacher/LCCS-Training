@@ -1,6 +1,7 @@
 # Breakout 2.1 Part 3 - Page 53
-from turtle import *
-from random import *
+from turtle import left, color, forward, pensize
+from random import randint, randrange
+
 # Part 03
 pensize(2)
 color("red")
@@ -35,8 +36,7 @@ color("red")
 # forward(50)
 
 #Part 05
-from turtle import *
-from random import *
+
 forward(randint(50,150))
 left(randrange(360))
 forward(randint(50,150))
