@@ -12,8 +12,8 @@ print(string2)<br>
 print(string3)<br>
 displays the type of data stored in the variable<br>
 print(type(string1))<br>
-*returns <class 'str'>*<br>
+*returns \<class \'str\'\>*<br>
 print(type(string2))<br>
-*returns <class 'int'>*<br>
+*returns \<class \'int\'\>*<br>
 print(type(string3))<br>
-*returns <class 'str'>*<br>
+*returns \<class \'str\'\>*<br>
