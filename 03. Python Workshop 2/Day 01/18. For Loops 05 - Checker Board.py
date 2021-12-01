@@ -23,11 +23,6 @@ WHITE = (255, 255, 255)
 
 window.fill(WHITE)
 
-# Row 1
-# pygame.draw.rect(window, BLACK, (0,   0, 50, 50))
-# pygame.draw.rect(window, BLACK, (100, 0, 50, 50))
-# pygame.draw.rect(window, BLACK, (200, 0, 50, 50))
-# pygame.draw.rect(window, BLACK, (300, 0, 50, 50))
 starty=0
 for board in range (4):
     startx = 0
@@ -39,6 +34,13 @@ for board in range (4):
     for square in range (4):
         pygame.draw.rect(window, BLACK, (startx,   starty, 50, 50))
         startx = startx + 100
+
+# Row 1
+# pygame.draw.rect(window, BLACK, (0,   0, 50, 50))
+# pygame.draw.rect(window, BLACK, (100, 0, 50, 50))
+# pygame.draw.rect(window, BLACK, (200, 0, 50, 50))
+# pygame.draw.rect(window, BLACK, (300, 0, 50, 50))
+
 # Row 2
 # pygame.draw.rect(window, BLACK, (50,  50, 50, 50))
 # pygame.draw.rect(window, BLACK, (150, 50, 50, 50))
